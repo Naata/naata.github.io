@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on MK</title>
-    <link>http://marcinkuna.com/projects/</link>
+    <link>https://marcinkuna.com/projects/</link>
     <description>Recent content in Projects on MK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 02 May 2020 14:47:56 +0200</lastBuildDate>
     
-	<atom:link href="http://marcinkuna.com/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marcinkuna.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How Long Since?</title>
-      <link>http://marcinkuna.com/projects/how_long_since/</link>
+      <link>https://marcinkuna.com/projects/how_long_since/</link>
       <pubDate>Sat, 02 May 2020 14:47:56 +0200</pubDate>
       
-      <guid>http://marcinkuna.com/projects/how_long_since/</guid>
+      <guid>https://marcinkuna.com/projects/how_long_since/</guid>
       <description>Developed as Dart language/Flutter framework excercise.
 Had som much fun writing it and I&amp;rsquo;m actively using it on daily basis to keep track of these pesky tasks that pop up every now and then :)
 From Google Play description: Have you ever asked yourself a question - &amp;ldquo;How long since I did &amp;hellip;?&amp;quot;
